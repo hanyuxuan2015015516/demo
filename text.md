@@ -117,8 +117,8 @@ IT人士：写日志、技术文稿、记录代码片段、撰写文档
 科研人员/学生：撰写科技论文、记笔记  
 求职者：制作求职简历  
 其他：撰写博文、在线编辑文章等
-4.	MarkDown的编辑工具有哪些？  
-简书、github、Markdowneditor、 webstorm、Atom、Sublime Text
+4.	MarkDown的编辑工具有哪些？ 
+简书、github、Markdowneditor、 webstorm、Atom、Sublime Text  
 6.MarkDown的区块元素和区段元素分别包含哪些？  
 *区块元素：*  
 换行符、标题、引用、列表、代码块、分割线  
